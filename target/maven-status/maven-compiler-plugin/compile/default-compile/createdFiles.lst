@@ -1,0 +1,3 @@
+com\example\movie\controller\ApiController.class
+com\example\movie\MovieApplication.class
+com\example\movie\service\ExternalApiService.class

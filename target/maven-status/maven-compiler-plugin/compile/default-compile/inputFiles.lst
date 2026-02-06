@@ -1,6 +1,9 @@
 C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\exception\GlobalExceptionHandler.java
+C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\config\RedisConfig.java
 C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\MovieApplication.java
 C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\service\ExternalApiService.java
 C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\model\Movie.java
+C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\service\RedisService.java
 C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\model\MovieResponse.java
+C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\model\FavoriteMovie.java
 C:\Users\laozi\git\movie_backend\src\main\java\com\example\movie\controller\ApiController.java
